@@ -1,0 +1,33 @@
+img {
+
+transform:scale( 0.5);
+animation-name:rotate;
+animation-duration:10s;
+animation-iteration-count:3;
+animation-direction:alternate;
+}
+article{
+color: orange
+}
+
+@keyframes rotate{
+  
+  from {transform:rotate(0deg);
+  }
+to {transform:rotate(360deg)}
+}
+#long{
+transform:translate(50px);
+animation: mycolors 5s 4 alternate;
+}
+.center_thing {
+border:1px solid green;
+color:red;
+animation-name: mycolors;
+animation-duration:6s;
+animation-iteration-count:4}
+
+
+@keyframes mycolors{
+ color:blue;
+}
