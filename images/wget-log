@@ -1,0 +1,11 @@
+--2020-05-18 12:39:24--  https://www.google.com/url?sa=i
+Resolving www.google.com (www.google.com)... 142.250.31.103, 142.250.31.104, 142.250.31.147, ...
+Connecting to www.google.com (www.google.com)|142.250.31.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘url?sa=i’
+
+url?sa=i                   [<=>                        ]       0  --.-KB/s               url?sa=i                   [ <=>                       ]   1.37K  --.-KB/s    in 0s      
+
+2020-05-18 12:39:25 (6.10 MB/s) - ‘url?sa=i’ saved [1401]
+
