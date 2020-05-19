@@ -31,3 +31,6 @@ animation-iteration-count:4}
 @keyframes mycolors{
  color:blue;
 }
+p {
+border :  double red;
+padding: 25px 50px 75px}
